@@ -1,0 +1,82 @@
+customer_id,customer_name,city,state,signup_date,customer_type
+CUST001,Customer 001,Delhi,Delhi,2024-01-26,Premium
+CUST002,Customer 002,Chennai,Tamil Nadu,2024-09-07,New
+CUST003,Customer 003,Bengaluru,Karnataka,2024-04-14,Premium
+CUST004,Customer 004,Delhi,Delhi,2025-08-27,Regular
+CUST005,Customer 005,Mumbai,Maharashtra,2024-01-31,New
+CUST006,Customer 006,Hyderabad,Telangana,2024-08-26,Premium
+CUST007,Customer 007,Mumbai,Maharashtra,2025-07-28,New
+CUST008,Customer 008,Kolkata,West Bengal,2024-08-13,Regular
+CUST009,Customer 009,Chennai,Tamil Nadu,2024-01-07,New
+CUST010,Customer 010,Kolkata,West Bengal,2024-12-14,Regular
+CUST011,Customer 011,Bengaluru,Karnataka,2024-08-08,Regular
+CUST012,Customer 012,Delhi,Delhi,2024-04-04,Regular
+CUST013,Customer 013,Delhi,Delhi,2025-01-02,Regular
+CUST014,Customer 014,Chennai,Tamil Nadu,2024-02-14,Premium
+CUST015,Customer 015,Jaipur,Rajasthan,2025-07-03,New
+CUST016,Customer 016,Kolkata,West Bengal,2024-03-21,Premium
+CUST017,Customer 017,Chennai,Tamil Nadu,2025-10-05,Premium
+CUST018,Customer 018,Pune,Maharashtra,2025-08-14,New
+CUST019,Customer 019,Delhi,Delhi,2024-02-16,Premium
+CUST020,Customer 020,Hyderabad,Telangana,2024-10-23,New
+CUST021,Customer 021,Hyderabad,Telangana,2024-04-13,Regular
+CUST022,Customer 022,Chennai,Tamil Nadu,2025-04-09,Premium
+CUST023,Customer 023,Pune,Maharashtra,2024-06-15,Regular
+CUST024,Customer 024,Pune,Maharashtra,2024-08-02,Premium
+CUST025,Customer 025,Chennai,Tamil Nadu,2025-11-30,Premium
+CUST026,Customer 026,Delhi,Delhi,2025-09-15,Premium
+CUST027,Customer 027,Bengaluru,Karnataka,2025-06-30,Premium
+CUST028,Customer 028,Hyderabad,Telangana,2024-06-16,Regular
+CUST029,Customer 029,Kolkata,West Bengal,2024-10-03,Premium
+CUST030,Customer 030,Hyderabad,Telangana,2024-11-28,New
+CUST031,Customer 031,Hyderabad,Telangana,2024-02-02,Regular
+CUST032,Customer 032,Kolkata,West Bengal,2024-10-01,New
+CUST033,Customer 033,Hyderabad,Telangana,2025-08-03,Premium
+CUST034,Customer 034,Pune,Maharashtra,2024-08-05,Premium
+CUST035,Customer 035,Jaipur,Rajasthan,2025-02-09,Premium
+CUST036,Customer 036,Jaipur,Rajasthan,2024-05-26,Regular
+CUST037,Customer 037,Bengaluru,Karnataka,2024-09-09,Premium
+CUST038,Customer 038,Chennai,Tamil Nadu,2025-08-21,Regular
+CUST039,Customer 039,Kolkata,West Bengal,2025-01-05,New
+CUST040,Customer 040,Bengaluru,Karnataka,2025-06-05,Regular
+CUST041,Customer 041,Delhi,Delhi,2024-02-18,New
+CUST042,Customer 042,Bengaluru,Karnataka,2025-10-04,New
+CUST043,Customer 043,Kolkata,West Bengal,2025-09-02,New
+CUST044,Customer 044,Kolkata,West Bengal,2025-01-25,Premium
+CUST045,Customer 045,Jaipur,Rajasthan,2025-06-25,Regular
+CUST046,Customer 046,Mumbai,Maharashtra,2025-11-27,Premium
+CUST047,Customer 047,Delhi,Delhi,2025-11-29,Premium
+CUST048,Customer 048,Chennai,Tamil Nadu,2025-10-18,Regular
+CUST049,Customer 049,Delhi,Delhi,2024-10-27,Regular
+CUST050,Customer 050,Bengaluru,Karnataka,2025-04-09,New
+CUST051,Customer 051,Chennai,Tamil Nadu,2025-05-27,New
+CUST052,Customer 052,Delhi,Delhi,2025-10-02,Regular
+CUST053,Customer 053,Hyderabad,Telangana,2024-06-05,Regular
+CUST054,Customer 054,Bengaluru,Karnataka,2025-07-06,Premium
+CUST055,Customer 055,Mumbai,Maharashtra,2025-09-05,Regular
+CUST056,Customer 056,Jaipur,Rajasthan,2024-01-20,New
+CUST057,Customer 057,Pune,Maharashtra,2024-11-10,New
+CUST058,Customer 058,Mumbai,Maharashtra,2024-09-03,Premium
+CUST059,Customer 059,Delhi,Delhi,2024-03-28,Premium
+CUST060,Customer 060,Jaipur,Rajasthan,2024-03-11,Premium
+CUST061,Customer 061,Bengaluru,Karnataka,2024-05-11,Premium
+CUST062,Customer 062,Jaipur,Rajasthan,2025-07-16,New
+CUST063,Customer 063,Chennai,Tamil Nadu,2025-06-24,Premium
+CUST064,Customer 064,Kolkata,West Bengal,2024-08-04,Premium
+CUST065,Customer 065,Hyderabad,Telangana,2024-11-15,Regular
+CUST066,Customer 066,Pune,Maharashtra,2025-03-24,Premium
+CUST067,Customer 067,Jaipur,Rajasthan,2024-05-03,New
+CUST068,Customer 068,Hyderabad,Telangana,2024-03-06,Regular
+CUST069,Customer 069,Mumbai,Maharashtra,2025-08-25,Premium
+CUST070,Customer 070,Hyderabad,Telangana,2025-08-25,New
+CUST071,Customer 071,Mumbai,Maharashtra,2024-03-13,Premium
+CUST072,Customer 072,Mumbai,Maharashtra,2024-08-22,New
+CUST073,Customer 073,Mumbai,Maharashtra,2024-12-04,New
+CUST074,Customer 074,Hyderabad,Telangana,2024-10-12,Premium
+CUST075,Customer 075,Jaipur,Rajasthan,2024-08-07,Premium
+CUST076,Customer 076,Bengaluru,Karnataka,2025-08-07,Premium
+CUST077,Customer 077,Jaipur,Rajasthan,2024-09-05,Regular
+CUST078,Customer 078,Kolkata,West Bengal,2024-07-13,New
+CUST079,Customer 079,Delhi,Delhi,2025-11-05,Regular
+CUST080,Customer 080,Pune,Maharashtra,2025-03-09,Regular
+CUST008,Customer 008,Kolkata,West Bengal,2024-08-13,Regular

@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price
+PROD001,Wireless Mouse,Electronics,2499
+PROD002,Keyboard,Electronics,299
+PROD003,Headphones,Electronics,8999
+PROD004,Monitor,Electronics,8999
+PROD005,Webcam,Electronics,8999
+PROD006,Mixer Grinder,Home & Kitchen,399
+PROD007,Electric Kettle,Home & Kitchen,299
+PROD008,Cookware Set,Home & Kitchen,1999
+PROD009,Vacuum Cleaner,Home & Kitchen,1499
+PROD010,Toaster,Home & Kitchen,399
+PROD011,Backpack,Fashion,799
+PROD012,Running Shoes,Fashion,799
+PROD013,T-Shirt,Fashion,799
+PROD014,Watch,Fashion,3999
+PROD015,Wallet,Fashion,2499
+PROD016,Fiction Book,Books,499
+PROD017,Data Analytics Book,Books,1999
+PROD018,Cookbook,Books,499
+PROD019,Biography,Books,999
+PROD020,Notebook Set,Books,2499
